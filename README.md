@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=250&color=timeGradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=timeGradient&animation=fadeIn)
 
 <div align="center">
 <h1>알고리즘(Python)</h1>
