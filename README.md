@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=timeGradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&color=gradient)
 
 <div align="center">
 <h1>알고리즘(Python)</h1>
@@ -13,4 +13,4 @@
 |12월 15일|[DFS, BFS, deque](https://github.com/Minjoo522/algo/blob/main/day8/lecture_note.md)
 |12월 20일|[비트연산](https://github.com/Minjoo522/algo/blob/main/day10/lecture_note.md) <br /> [조합](https://github.com/Minjoo522/algo/blob/main/day10/lecture_note2.md)|
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=timeGradient)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=gradient)
